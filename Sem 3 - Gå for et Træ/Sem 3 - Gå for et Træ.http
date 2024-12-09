@@ -1,0 +1,6 @@
+@Sem_3___Gå_for_et_Træ_HostAddress = http://localhost:5293
+
+GET {{Sem_3___Gå_for_et_Træ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
